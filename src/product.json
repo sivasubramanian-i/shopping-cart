@@ -1,0 +1,90 @@
+[
+  {
+    "id": "11931",
+    "title": "SLIM FIT JEANS",
+    "image": "jean_1.jpg",
+    "type": "JEANS",
+    "category": "Bottomwear",
+    "model": "casual",
+    "brand": "Levis",
+    "color": "Sublime Blue",
+    "price": 3499
+  },
+  {
+    "id": "11939",
+    "title": "STYLED DENIM SLIM STRAIGHT FIT JEANS",
+    "image": "jean_2.jpg",
+    "type": "JEANS",
+    "category": "Bottomwear",
+    "model": "casual",
+    "brand": "Flying Machine",
+    "color": "Black",
+    "price": 3499
+  },
+  {
+    "id": "11947",
+    "title": "COMMUTER™ SLIM FIT JEANS",
+    "image": "jean_3.jpg",
+    "type": "JEANS",
+    "category": "Bottomwear",
+    "model": "casual",
+    "brand": "Numero Uno",
+    "color": "Denim Blue",
+    "price": 4699
+  },
+  {
+    "id": "11963",
+    "title": "STYLED DENIM SKINNY FIT JEANS",
+    "image": "jean_4.jpg",
+    "type": "JEANS",
+    "category": "JEANS",
+    "model": "casual",
+    "brand": "Spykar",
+    "color": "Dark Blue",
+    "price": 3499
+  },
+  {
+    "id": "177010",
+    "title": "STYLED DENIM SLIM STRAIGHT FIT JEANS",
+    "image": "jean_4.jpg",
+    "type": "JEANS",
+    "category": "JEANS",
+    "model": "casual",
+    "brand": "Killer",
+    "color": "White",
+    "price": 3499
+  },
+  {
+    "id": "176994",
+    "title": "STYLED DENIM SKINNY FIT JEANS",
+    "image": "jean_3.jpg",
+    "type": "JEANS",
+    "category": "JEANS",
+    "model": "casual",
+    "brand": "Wrangler",
+    "color": "Blue",
+    "price": 1899
+  },
+  {
+    "id": "177020",
+    "title": "STYLED DENIM SLIM STRAIGHT FIT JEANS",
+    "image": "jean_2.jpg",
+    "type": "JEANS",
+    "category": "JEANS",
+    "model": "casual",
+    "brand": "Lee",
+    "color": "Off White",
+    "price": 3299
+  },
+  {
+    "id": "177000",
+    "title": "SLIM FIT JEANS",
+    "image": "jean_1.jpg",
+    "type": "JEANS",
+    "category": "JEANS",
+    "model": "casual",
+    "brand": "Pepe Jeans",
+    "color": "Silver",
+    "price": 1899
+  }
+]
